@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anichan/static/css/main.1263df18.css",
+    "main.js": "/anichan/static/js/main.8cab55e5.js",
+    "static/js/787.74ef883f.chunk.js": "/anichan/static/js/787.74ef883f.chunk.js",
+    "static/media/bg.jpg": "/anichan/static/media/bg.85136d673010fcf5b405.jpg",
+    "static/media/Ghost.gif": "/anichan/static/media/Ghost.7011dbe1ff39056d8ec4.gif",
+    "index.html": "/anichan/index.html",
+    "main.1263df18.css.map": "/anichan/static/css/main.1263df18.css.map",
+    "main.8cab55e5.js.map": "/anichan/static/js/main.8cab55e5.js.map",
+    "787.74ef883f.chunk.js.map": "/anichan/static/js/787.74ef883f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1263df18.css",
+    "static/js/main.8cab55e5.js"
+  ]
+}
