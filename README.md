@@ -16,5 +16,5 @@ AniChan is a React project created for anime fans. This project utilizes the Ani
 
 ## Demo
 
-A live demo of the AniChan project can be found [here]([https://example.com](https://jashank2003.github.io/anichan/).
+A live demo of the AniChan project can be found [here]([click here](https://jashank2003.github.io/anichan/).
 
